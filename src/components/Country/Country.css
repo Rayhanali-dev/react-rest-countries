@@ -1,0 +1,19 @@
+.country {
+    width: 320px;
+    margin: 10px auto;
+    background-color: aqua;
+    padding: 20px;
+    /* height: 350px; */
+}
+
+.country img {
+    width: 250px;
+    height: 150px;
+}
+
+.details-btn {
+    padding: 10px 20px;
+    border: none;
+    background-color: rgb(7, 65, 145);
+    color: #fff;
+}
